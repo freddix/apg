@@ -1,7 +1,7 @@
 Summary:	Automated Password Generator
 Name:		apg
 Version:	2.2.3
-Release:	2
+Release:	3
 License:	BSD
 Group:		Applications/System
 Source0:	http://www.adel.nursat.kz/apg/download/%{name}-%{version}.tar.gz
